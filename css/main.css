@@ -1,5 +1,5 @@
    body {
-    background: #1D8DC2;
+    background: #0079BF;
     margin: 0px;
     padding: 0px;
     font-family: helvetica;
@@ -82,6 +82,24 @@
     background-color: #3588B9;
     cursor: pointer;
   }
+
+  b {
+  margin-right: 10px;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 0;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #0079BF;
+    border-radius: 3px;
+  }
+
+   b:hover {
+    color: #ffffff;
+    background-color: #006AA8;
+    cursor: pointer;
+  }
+
 
   p {
     margin-right: 100px;
