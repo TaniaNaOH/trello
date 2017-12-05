@@ -112,9 +112,9 @@ Autoras:
 ========
 SQUAD SERENDIPIA.
 
--Martha Angelica Fuentes Cruz.
--Behtsabet Monserrat Gonzalez Diaz.
--Escarleht Rocha Soriano.
--Yordana Yael Rojas Duran.
--Nancy Santana Hernandez.
--Tania Dalila Sosa Ramirez.
+- Martha Angelica Fuentes Cruz.
+- Behtsabet Monserrat Gonzalez Diaz.
+- Escarleht Rocha Soriano.
+- Yordana Yael Rojas Duran.
+- Nancy Santana Hernandez.
+- Tania Dalila Sosa Ramirez.
